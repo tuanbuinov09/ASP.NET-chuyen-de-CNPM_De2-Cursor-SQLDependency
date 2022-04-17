@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1738
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ChuyenDeCNPM_De2_Cursor_SQLDependency", "ChuyenDeCNPM_De2_Cursor_SQLDependency\", "{C7E4BEE4-69DF-4D57-8C73-F59E5CE063C2}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_64645"
+		Debug.AspNetCompiler.PhysicalPath = "ChuyenDeCNPM_De2_Cursor_SQLDependency\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64645\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_64645"
+		Release.AspNetCompiler.PhysicalPath = "ChuyenDeCNPM_De2_Cursor_SQLDependency\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64645\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "64645"
+		SlnRelativePath = "ChuyenDeCNPM_De2_Cursor_SQLDependency\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7E4BEE4-69DF-4D57-8C73-F59E5CE063C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7E4BEE4-69DF-4D57-8C73-F59E5CE063C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEA6932E-36C0-4390-8E59-8719E1697ABC}
+	EndGlobalSection
+EndGlobal
